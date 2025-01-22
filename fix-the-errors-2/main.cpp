@@ -1,6 +1,6 @@
 //
-// Name
-// Date
+// Jeff Hunt
+// 1/22/25
 // Fix the Errors #2 Programming Project
 // COSC 1030
 //
@@ -16,7 +16,7 @@ int main()
 
 	float number;
 	int divider;
-	divider = 0;
+	divider = 2;
 
 	cout << "Hi there" << endl;
 	cout << "Please input a number and then hit return" << endl;
